@@ -1,1 +1,1 @@
-# magician7
+# project-django
